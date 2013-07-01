@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">CSDN_SDK</string>
+    <string name="et_hint_input_name">请输入登录名</string>
+    <string name="et_hint_input_pass">请输入登录密码</string>
+    <string name="submit">登录</string>
+	<string name="wait">请稍候,正在处理....</string>
+	<string name="err_title">错误</string>
+</resources>
